@@ -4,5 +4,7 @@ void main(){
   var nickName = "Mahafuj"; // string
   var sureName ='Mr Tuhin'; // string
   print(sureName);
-  print(myName + nickName);
+  print(myName);
+  print(nickName);
+
 }
