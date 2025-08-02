@@ -1,7 +1,8 @@
 // write a programme dart map
 /*
 map key value = key:value
-map separate , and include {}
+map value separate use comma -> ,
+map create and initializing use Curly Braces -> {}
  */
 void main(){
   var student = {

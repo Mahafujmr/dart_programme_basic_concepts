@@ -71,3 +71,34 @@ void main(){
   print(isNotBangladeshi);
 }
 ```
+### Dart List
+```dart
+void main(){
+  var city = ['Kushtia','Khulna','Varamara','Daulatpur'];
+  print(city);
+  print(city[3]); // access element from list
+  // list item access -use index number
+  // index number start 0 ,1,2,3,3 .....
+  // dart list create and initializing square brackets -> []
+  // every value separate use comma -> ,
+}
+```
+### Dart Map
+```dart
+void main(){
+  var student = {
+    'name':'Tuhin',
+    'age': 20,
+    'school': "Pragpur High School",
+  };
+  // any key access
+  print(student['name']);
+  print(student);
+}
+/*
+map - don't support index number
+map = key : value --> key -> name , value -> Tuhin
+key -> age, value -> 20
+key - school , value -> Pragpur High School
+ */
+```
