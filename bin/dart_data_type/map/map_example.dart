@@ -11,3 +11,9 @@ void main(){
   };
   print(student);
 }
+/*
+map - don't support index number
+map = key : value --> key -> name , value -> Tuhin
+key -> age, value -> 20
+key - school , value -> Pragpur High School
+ */
