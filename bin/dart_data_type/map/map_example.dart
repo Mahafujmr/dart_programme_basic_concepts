@@ -9,6 +9,8 @@ void main(){
     'age': 20,
     'school': "Pragpur High School",
   };
+  // any key access
+  print(student['name']);
   print(student);
 }
 /*
